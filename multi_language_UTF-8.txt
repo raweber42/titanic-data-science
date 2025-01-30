@@ -1,0 +1,2 @@
+['german = "Genügsamkeit ist natürlicher Reichtum, Luxus ist künstliche Armut."\n',
+ 'english = "Frugality is natural wealth, luxury is artificial poverty."']
